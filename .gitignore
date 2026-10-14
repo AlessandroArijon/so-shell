@@ -1,0 +1,8 @@
+*.o
+*.d
+p3
+build/
+.idea/
+.vscode/
+*.swp
+*~
